@@ -1,0 +1,6 @@
+<apex:page sidebar="false"
+    showHeader="false"
+    standardStylesheets="false"
+    applyHtmlTag="false">
+    <c:b2b_Header id="b2b_Header"/>
+</apex:page>
